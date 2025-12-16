@@ -23,6 +23,7 @@ Custom Shell Design for Hearing Aids
 CAD/CAM Automation Tools
 Mesh Cleanup, Modeling, and Production Pipelines
 Git, GitHub Actions, CI/CD
+
 Selected Projects
 1. Hearing Aid 3D Printing Automation Pipeline
 Automation tools for preparing hearing-aid shells, including mesh repair, scaling, generating venting structures, and exporting print-ready files.
