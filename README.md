@@ -33,5 +33,5 @@ Python-based scripts for automating CAD tasks, error checking, and generating ST
 
 Contact
 Email: eng.ibrahim.moawad@gmail.com
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/ibrahimmmm14
 GitHub: https://github.com/ibrahimmmm14
